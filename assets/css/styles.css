@@ -1,3 +1,7 @@
 body {
-    background-color: tomato;
+  background-color: tomato;
+}
+
+li {
+  display: inline-block;
 }
